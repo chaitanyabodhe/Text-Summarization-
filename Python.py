@@ -40,7 +40,7 @@ def summarize_text(text, num_sentences=3):
     return summary
 
 # Example usage:
-text = "Enter your text."
+text = "Enter your text"
 
 summary = summarize_text(text)
 print(summary)
